@@ -3,7 +3,8 @@ So, NTBeta deleted this.
 
 # What happened to the original!?!??!??!?!
 
-Apparently, NTBeta no longer wanted to work on it, Bee Mario added a batch version, and AT64 is working on a Python and C++ version.)
+Apparently, NTBeta no longer wanted to work on it, Bee Mario added a batch version, and AT64 is working on a Python and C++ version.
+I (NTBeta) will still work on it, and I'm working on the Java version.
 
 # Is everything the same?
 
