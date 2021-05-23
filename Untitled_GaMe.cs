@@ -5,6 +5,6 @@ class Program
 {
     static void Main()
     {
-        MessageBox.Show("");
+        MessageBox.Show("Hello, and welcome to Untitled_GaMe!");
     }
 }
