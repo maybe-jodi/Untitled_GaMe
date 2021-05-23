@@ -1,22 +1,14 @@
-public void Wait(int time) 
-{           
-    Thread thread = new Thread(delegate()
-    {   
-        System.Threading.Thread.Sleep(time);
-    });
-    thread.Start();
-    while (thread.IsAlive)
-    Application.DoEvents();
-}
 using System;
 using System.Windows.Forms;
 
 class Program
-{
+{ 
     static void Main()
     {
+      int mydelay = 5000;
+      int mydelay2 = 2000;
         MessageBox.Show("Hello, and welcome to Untitled_GaMe!");
-        Wait(5000);
+        Thread.Sleep(mydelay);
     }
 }
 
