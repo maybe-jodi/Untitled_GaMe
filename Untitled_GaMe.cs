@@ -11,10 +11,10 @@ namespace HelloWorld
       Console.WriteLine("Enter username:");
 
       //Create a string variable and get user input from the keyboard and store it in the variable
-      string userName = Console.ReadLine();
+      string Input1 = Console.ReadLine();
 
       // Print the value of the variable (userName), which will display the input value
-      Console.WriteLine("Oh! Hi " + userName + ". Remember me? );
+      Console.WriteLine("Oh! Hi {0}",Input1);
     }
   }
 }
