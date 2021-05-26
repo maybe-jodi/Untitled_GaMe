@@ -6,11 +6,18 @@ using System.Threading.Tasks;
 
 namespace Untitled_GaMe
 {
+  class Game
+    {
+    }
+    class Item
+    {
+    }
   class Program
   {
     static void Main()
     {
       string CharacterName;
+      Console.Title = "Untitled_GaMe - Start";
       Console.WriteLine("Hello! Welcome to Untitled_GaMe! I'm Clyde."); 
       Console.ReadKey();
       Console.WriteLine("Now, I need your name. Enter it here: ");
