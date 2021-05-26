@@ -1,6 +1,6 @@
 using System;
 
-namespace HelloWorld
+namespace Untitled_GaMe
 {
   class Program
   {
