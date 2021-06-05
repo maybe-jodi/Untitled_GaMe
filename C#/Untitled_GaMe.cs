@@ -17,7 +17,7 @@ namespace Untitled_GaMe
     public static class Game
     {
       static string CharacterName = "NTBeta";
-      Console.Title = "Untitled_GaMe - Start";
+      Console.Title = "Untitled_GaMe - Names n' newts";
       Console.WriteLine("Hello! Welcome to Untitled_GaMe! I'm Clyde."); 
       Console.WriteLine("Now, I need your name. Enter it here: ");
       
